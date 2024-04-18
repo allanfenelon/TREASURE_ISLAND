@@ -1,0 +1,15 @@
+vertice,checkpoint,temItem,temCriatura,nomeCriatura,ptAtaque,tipoItem,temArma,tipoArma,nomeArma,nomeItem,coorX,coorY
+1,False,False,False," ",0,0,False,0," "," ",569,454
+2,False,False,True,"Crocodilo Gigante",50,0,False,0," "," ",321,421
+3,False,True,False," ",0,5,False,0," "," Curinha",451,405
+4,False,False,False," ",0,0,True,1,"Canivete"," ",541,350
+5,False,False,False," ",0,0,True,3,"Escopeta"," ",287,338
+6,False,False,True,"Onça Pintada Mitica",75,0,False,0," "," ",576,282
+7,False,True,True,"Onça Pintada Mitica",35,6,False,0," ","Curão",430,230
+8,True,False,False," ",0,0,False,0," "," ",286,243
+9,False,False,True,"Formiga Quimera",45,0,False,0," "," ",358,220
+10,True,False,False," ",0,0,False,0," "," ",245,186
+11,True,False,False," ",0,0,False,0," "," ",389,156
+12,False,True,True,"Formiga Quimera",10,8,False,0," ","Carne lulosa",381,88
+13,False,False,True,"Formiga Quimera",45,0,False,0," "," ",486,132
+14,False,False,True,"Crocodilo Gigante",60,0,False,0," "," ",592,82
